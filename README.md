@@ -1,2 +1,2 @@
 # practice
-A repository of solved hackathon questions
+A repository of solved hackathon questions by me.
