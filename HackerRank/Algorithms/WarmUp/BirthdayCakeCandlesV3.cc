@@ -30,4 +30,5 @@ int main()
         max < n ? count = !!(max = n) : count+= (max==n);
     cout << count;
     return 0;
+
 }
