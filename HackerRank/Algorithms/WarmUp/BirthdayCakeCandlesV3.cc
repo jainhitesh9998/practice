@@ -24,7 +24,6 @@
 using namespace std;
 int main()
     {
-		
     int count = 0, n , max = 0;
     cin.ignore();
     while(cin>>n)
