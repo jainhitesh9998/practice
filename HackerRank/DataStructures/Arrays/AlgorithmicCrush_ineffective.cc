@@ -19,7 +19,6 @@ int main() {
             arr[a-1]+=v;
         }
     }
-	
     cout<<*max_element(arr.begin(), arr.end());
     return 0;
     
