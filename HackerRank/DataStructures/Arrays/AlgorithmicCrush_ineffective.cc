@@ -11,7 +11,6 @@ int main() {
     int n, m;
     cin >>n>>m;
     vector<long> arr(n, 0);
-    
     for (int i = 0; i<m; i++){
         int a, b, v;
         cin>>a>>b>>v;
