@@ -21,6 +21,4 @@ int main() {
     }
     cout<<*max_element(arr.begin(), arr.end());
     return 0;
-    
-	
 }
