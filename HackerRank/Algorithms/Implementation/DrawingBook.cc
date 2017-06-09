@@ -1,7 +1,6 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-
 int solve(int n, int p){
     // Complete this function
     /*int count = 0;
