@@ -18,7 +18,6 @@ queue.enqueue(2)
 queue.enqueue(3)
 print(queue.size())
 queue.enqueue(4)
-
 print(queue.size())
 print(queue.front())
 print(queue.dequeue())
