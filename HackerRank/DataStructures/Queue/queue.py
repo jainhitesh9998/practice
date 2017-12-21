@@ -14,6 +14,7 @@ class Queue:
         return len(self.items)
         
 queue = Queue()
+print(queue.IsEmpty())
 queue.enqueue(2)
 queue.enqueue(3)
 print(queue.size())
