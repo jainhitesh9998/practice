@@ -40,4 +40,3 @@ int main(){
     cout<<no_of_beverages;
     return 0;
 }
-
