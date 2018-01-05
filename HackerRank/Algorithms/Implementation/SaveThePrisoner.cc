@@ -15,7 +15,6 @@ int saveThePrisoner(int n, int m, int s){
     else 
         return a + s - 1;
 }
-
 int main() {
     int t;
     cin >> t;
